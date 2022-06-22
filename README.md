@@ -5,6 +5,7 @@ A web app that shows different image processing algorithms. You can choose the o
 1. cv2
 2. numpy
 3. streamlit
+4. cvzone 
 
 # OpenCV functions are:
 
