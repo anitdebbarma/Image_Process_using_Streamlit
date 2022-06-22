@@ -9,8 +9,9 @@ A web app that shows different image processing algorithms. You can choose the o
 # OpenCV functions are:
 
 1. Colour Filter
-         i. Grayscale Filter
-        ii. Brightness Adjustment
+
+        - Grayscale Filter
+        - Brightness Adjustment
         - Dark Adjustment
         - Sketch Filter
         - Cartoon
