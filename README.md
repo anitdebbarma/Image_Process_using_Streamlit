@@ -7,7 +7,7 @@ A web app that shows different image processing algorithms. You can choose the o
 3. streamlit
 4. cvzone 
 
-# OpenCV functions are:
+# Functions are:
 
 1. Colour Filter
 
