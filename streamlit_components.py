@@ -12,7 +12,7 @@ def welcome():
                  +'Colour Filter, Blur Face and Detection, Face Count, Vehicle detection & Count and Background Remove')
 
     st.image('image_logo.jpg', use_column_width=True)
-    st.subheader('Made by Chumui')
+    st.subheader('Made by Anit')
 
 def Color_filter():
     st.header("You Chosen :- ")
